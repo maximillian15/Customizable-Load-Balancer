@@ -87,5 +87,22 @@ make a1, make a2, make a3, make a4
 
 
 
+### Experiment 2: Scalability
+
+- Reduce the number of server containers from 3 to 2.
+- Plot a line chart showing the average load of the servers at each run.
+- Expected Outcome: Efficient scaling with even load distribution as server instances increase.
+
+![image](https://github.com/maximillian15/Customizable-Load-Balancer/blob/main/images/a2_line.png)
+
+### Experiment 3: Failure Recovery
+
+- Test load balancer endpoints and simulate server failures.
+
+![image](https://github.com/maximillian15/Customizable-Load-Balancer/blob/main/images/a2test%202.png)
+
+
+
+
 
 
