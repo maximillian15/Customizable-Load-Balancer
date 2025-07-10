@@ -83,6 +83,9 @@ make a1, make a2, make a3, make a4
 - Record the number of requests handled by each server and plot a bar chart.
 - Expected Outcome: Even distribution of load among server instances.
 
-![image](
+![image](https://github.com/maximillian15/Customizable-Load-Balancer/blob/main/images/a1%20test2.png)
+
+
+
 
 
