@@ -18,7 +18,5 @@ distributed-lab/
 └── README.md 
 
 ## Clone the Project
-<pre> ```bash
-git clone https://github.com/maximillian15/Customizable-Load-Balancer.git
-cd distributed-lab''' </pre>
+<pre> ```bash docker build -t distributed-lab-server1 ./server docker run -d --name Server1 --network distributed-lab_net1 -e SERVER_ID=1 distributed-lab-server1 ``` </pre>
 
