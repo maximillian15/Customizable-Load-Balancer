@@ -101,6 +101,11 @@ make a1, make a2, make a3, make a4
 ![image](https://github.com/maximillian15/Customizable-Load-Balancer/blob/main/images/a2test%202.png)
 
 
+## Colaborators
+Mwenda Maximillian - 150651
+Anthony Kimanthi - 151957
+Ndung’u Victor - 150668 
+Mbindyo Ryan Kyalo - 151344
 
 
 
