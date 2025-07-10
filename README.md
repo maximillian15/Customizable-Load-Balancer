@@ -102,10 +102,10 @@ make a1, make a2, make a3, make a4
 
 
 ## Colaborators
-Mwenda Maximillian - 150651
-Anthony Kimanthi - 151957
-Ndung’u Victor - 150668 
-Mbindyo Ryan Kyalo - 151344
+Mwenda Maximillian - 150651  
+Anthony Kimanthi - 151957  
+Ndung’u Victor - 150668   
+Mbindyo Ryan Kyalo - 151344  
 
 
 
