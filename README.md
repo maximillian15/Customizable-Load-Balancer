@@ -54,3 +54,34 @@ sudo chmod +x /usr/local/bin/docker-compose
 sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
 ```
 
+3. **Run The Project**
+
+### Clone Project 
+
+```bash
+git clone https://github.com/yourusername/distributed-lab.git
+cd distributed-lab
+```
+
+### Start the project
+
+```bash
+make up
+```
+
+### Run tests
+
+```bash
+make a1, make a2, make a3, make a4 
+```
+
+## Testing and Performance Analysis
+
+### Experiment 1: Load Distribution
+
+- Launch 10,000 asynchronous requests on 3 server containers.
+- Record the number of requests handled by each server and plot a bar chart.
+- Expected Outcome: Even distribution of load among server instances.
+
+
+
