@@ -18,7 +18,18 @@ The load balancer aims to handle increasing client loads by efficiently distribu
 
 ## Project Structure
 
-<pre> ```text distributed-lab/ ├── server/ │ └── server.py ├── load_balancer/ │ ├── balancer.py │ └── consistent_hash.py ├── test_runner.py ├── docker-compose.yml ├── Makefile └── README.md ``` </pre>
+```text
+distributed-lab/
+├── server/
+│   └── server.py
+├── load_balancer/
+│   ├── balancer.py
+│   └── consistent_hash.py
+├── test_runner.py
+├── docker-compose.yml
+├── Makefile
+└── README.md
+```
 
 
 # Installation
