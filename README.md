@@ -83,5 +83,6 @@ make a1, make a2, make a3, make a4
 - Record the number of requests handled by each server and plot a bar chart.
 - Expected Outcome: Even distribution of load among server instances.
 
+![image](
 
 
